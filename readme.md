@@ -1,1 +1,1 @@
-# Alexa Skill to integrate Home Assistant
+# Alexa Skill to integrate HomeAssistant.ios
